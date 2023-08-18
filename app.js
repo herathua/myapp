@@ -1,3 +1,1 @@
-body{
-    background-
-}
+alart("hello world");
